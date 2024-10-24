@@ -1,0 +1,52 @@
+{
+  "term": "Spring",
+  "year": "2023",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Algebra and Number Theory"
+    ],
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ],
+    [
+      "Mathematics",
+      "Topology and Geometry"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Quantum Mechanics"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "415f2639-94c3-d0b5-c9fb-3fd8adaaa6cf"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "816918d5-14ea-49c4-9f6f-3ff53d1f4d33",
+    "website": "geometry-and-quantum-field-theory"
+  },
+  "course_title": "Geometry and Quantum Field Theory",
+  "hide_download": false,
+  "course_description": "The main goal of this course is to present the basic ideas of quantum field theory (QFT) in a completely rigorous and mathematical way. Topics of the course include: generalities on classical and quantum mechanics and field theory, 0-dimensional QFT, 1-dimensional QFT, *d*\\-dimensional QFT, supergeometry and field theories with fermions, and introduction to 2-dimensional conformal field theory.",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.238",
+  "learning_resource_types": [
+    "Online Textbook",
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "site_uid": "e40b614e-d48b-485b-a88b-e6e7e66e2138",
+  "site_short_id": "18.238-Spring-2023"
+}
