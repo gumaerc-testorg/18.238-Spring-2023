@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/18-238-geometry-and-quantum-field-theory-spring-2023/mit18_238_s23_week05.pdf
+file: courses/geometry-and-quantum-field-theory/mit18_238_s23_week05.pdf
 file_size: 469571
 file_type: application/pdf
 image_metadata:
