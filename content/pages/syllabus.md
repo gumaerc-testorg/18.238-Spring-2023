@@ -31,7 +31,7 @@ The development of quantum field theory (QFT) and string theory in the last four
 
 ## Textbook and Lecture Notes
 
-A recommended textbook for the course is {{% resource_link "f3ecd1e9-5690-41c4-ac44-02c22adcab9d" "*Quantum Fields and Strings: A Course for Mathematicians*" %}}, AMS, 1998 (but we won't closely follow it). Instead, we will follow the {{% resource_link "31d9336e-079d-41c3-955c-49516bec6dfe" "lecture notes" %}}.   
+A recommended textbook for the course is [*Quantum Fields and Strings: A Course for Mathematicians*](https://bookstore.ams.org/qft-1-2-s/), AMS, 1998 (but we won't closely follow it). Instead, we will follow the {{% resource_link "31d9336e-079d-41c3-955c-49516bec6dfe" "lecture notes" %}}.   
 
 ## Assignments and Grading
 
